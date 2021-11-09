@@ -54,6 +54,8 @@ Open your browser and navigate to http://localhost:5000 to view the web app
 ## Technologies and Languages Used
 Python version 3.6
 Flask
+HTML 5
+Bootstrap
 ## License
 MIT License Copyright (c) [2021] [ONYANGO ANIPHER CHELSEA AYOO]
 
